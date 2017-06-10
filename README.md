@@ -1,0 +1,1 @@
+The purpose of this project is to clean the data for the housing sales in Brooklyn from Sepmeber 2015 up to August 2016. The source directory contains the code in R to execute the anaysis. The data directory contains the data in csv format. The file paper.Rmd explains a pattern idenfied in the data
