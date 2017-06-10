@@ -2,7 +2,9 @@
 title: "Patterns"
 author: "Ernesto Carrera"
 date: "6/10/2017"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 
